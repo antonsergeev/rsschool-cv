@@ -10,17 +10,20 @@
 
 ## Skills and Proficiency:
 
-- Visual Studio Code, Spyder, PyCharm
-- Git
-- HTML, CSS, Bootstrap
-- JavaScript
-- Python (Django, Flask, SQLAlchemy, Pandas, SciPy, Matplotlib, Bokeh, XLWings, openpyxl, Tkinter)
-- Visual Basic for Applications
-- Matlab / GNU Octave
-- Bash
-- SQL
-- Selenium
-- LabWare LIMS Administration
+- **IDE:** PyCharm, Spyder, Visual Studio Code
+- **Version Control System:** Git
+- **Programming Languages and Frameworks:**
+  - HTML, CSS, Bootstrap
+  - JavaScript
+  - Python (Django, Flask, SQLAlchemy, Pandas, SciPy, Matplotlib, Bokeh, XLWings, openpyxl, Tkinter)
+  - Visual Basic for Applications
+  - Matlab / GNU Octave
+  - Bash
+- **Databases:** SQL (PostgreSQL, SQLite)
+- **Automation and Testing:** Selenium
+- **Other:** 
+  - Arduino
+  - LabWare LIMS Administration
 
 ---
 
