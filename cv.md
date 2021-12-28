@@ -14,7 +14,7 @@
 - Git
 - HTML, CSS, Bootstrap
 - JavaScript
-- Python (Django, Flask, SQLAlchemy, Pandas, SciPy, Matplotlib, Bokeh, XLWings, openpyxl)
+- Python (Django, Flask, SQLAlchemy, Pandas, SciPy, Matplotlib, Bokeh, XLWings, openpyxl, Tkinter)
 - Visual Basic for Applications
 - Matlab / GNU Octave
 - Selenium
