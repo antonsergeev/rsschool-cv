@@ -4,7 +4,7 @@
 
 - **Location:** Pushchino, Moscow Region, Russia
 - **E-mail:** antonsergeevphd@gmail.com
-- **GitHub:**  antonsergeev 
+- **GitHub:**  [antonsergeev](https://github.com/antonsergeev/) 
 
 ---
 
