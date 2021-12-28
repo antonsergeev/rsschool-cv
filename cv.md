@@ -8,6 +8,19 @@
 
 ---
 
+## Skills and Proficiency:
+
+- Visual Studio Code, Spyder, PyCharm
+- Git
+- HTML, CSS, Bootstrap
+- JavaScript
+- Python (Django, Flask, SQLAlchemy, Pandas, SciPy, Matplotlib, Bokeh, XLWings, openpyxl)
+- Visual Basic for Applications
+- Matlab / GNU Octave
+- Selenium
+
+---
+
 ## Languages
 
 - English (Intermediate)
