@@ -17,7 +17,10 @@
 - Python (Django, Flask, SQLAlchemy, Pandas, SciPy, Matplotlib, Bokeh, XLWings, openpyxl, Tkinter)
 - Visual Basic for Applications
 - Matlab / GNU Octave
+- Bash
+- SQL
 - Selenium
+- LabWare LIMS Administration
 
 ---
 
