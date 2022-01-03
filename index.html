@@ -11,6 +11,131 @@
     <title>CV Anton Sergeev</title>
 </head>
 <body>
-    
+    <header class="header">
+        <div class="container">
+            <nav class="nav">
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                    <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+                    <li class="nav-item"><a href="#tech-skills" class="nav-link">Skills</a></li>
+                    <li class="nav-item"><a href="#code-examples" class="nav-link">Code</a></li>
+                    <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
+                    <li class="nav-item"><a href="#work-history" class="nav-link">Work</a></li>
+                    <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                    <li class="nav-item"><a href="#courses" class="nav-link">Courses</a></li>
+                    <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main class="main">
+        <div class="container">
+            <section class="section" id="profile">
+                <img src="images/avatar.jpg" alt="Avatar">
+                <div>
+                    <h1>Anton Sergeev</h1>
+                    <h3>Full-Stack Developer</h3>
+                </div>
+            </section>
+            <section class="section" id="contacts">
+                <h2>Contacts</h2>
+                <ul class="section-list">
+                    <li class="section-item location-item">Location: <span>Pushchino, Moscow Region, Russia</span></li>
+                    <li class="section-item email-item">Email: <a href="mailto:antonsergeevphd@gmail.com">antonsergeevphd@gmail.com</a></li>
+                    <li class="section-item github-item">Github: <a href="https://github.com/antonsergeev">antonsergeev</a></li>
+                    <li class="section-item discord-item">Discord: <a href="https://discord.gg/zUr7wWYPXE">snotna#8411</a></li>
+                </ul>
+            </section>
+            <section class="section" id="summary">
+                <h2>Summary</h2>
+                <p>I'm very interested in such fields as mathematical modeling and business automation. Programming has always been one of my main tools in problem solving although my responsibilities could be far from pure programming. So I'm interested in further developing my skills as a qualified programmer.</p>
+            </section>
+            <section class="section" id="tech-skills">
+                <h2>Technikal Skills</h2>
+                <ul class="section-list">
+                    <li class="section-item">Version Control System: <span>Git</span></li>
+                    <li class="section-item">
+                        Programming Languages and Frameworks:
+                        <ul>
+                            <li>Front-end: <span>HTML, CSS, Bootstrap, JavaScript</span></li>
+                            <li>Back-end: <span>Python</span></li>
+                            <li>Other: <span>Bash, Visual Basic for Applications (VBA), Matlab / GNU Octave</span></li>
+                        </ul>
+                    </li>
+                    <li class="section-item">Databases: <span>SQL (PostgreSQL, SQLite)</span></li>
+                    <li class="section-item">Automation and Testing: <span>Selenium</span></li>
+                    <li class="section-item">Bug and Issue Tracking: <span>Redmine</span></li>
+                    <li class="section-item">Operating Systems: <span>Linux, Windows</span></li>
+                    <li class="section-item">Other: <span>Arduino, LabWare LIMS</span></li>
+                </ul>
+            </section>
+            <section class="section" id="code-examples">
+                <h2>Code Examples</h2>
+                <p class="section-item">Codewars simple <a href="https://www.codewars.com/kata/55a70521798b14d4750000a4">Kata</a> solution</p>
+                <pre>
+                    <code>
+function greet(name){
+  const suffix = ' how are you doing today?'
+  return `Hello, ${name}` + suffix;
+}
+                    </code>
+                </pre>
+            </section>
+            <section class="section" id="projects">
+                <h2>Projects</h2>
+                <ul class="section-list">
+                    <li class="section-item"><a href="https://github.com/antonsergeev/rsschool-cv">RS School CV</a><br>Introductory project for course on Stage 0</li>
+                    <li class="section-item"><span>LIMS Web Application (Private)</span><br>Custom web-interface to LabWare LIMS database in Test-Pushchino (Flask, SQLAlchemy, Pandas, HTML, CSS, JavaScript)</li>
+                    <li class="section-item"><a href="https://github.com/antonsergeev/tesselect">tesselect</a><br>Python module for image grain analysis</li>
+                </ul>
+            </section>
+            <section class="section" id="work-history">
+                <h2>Work History</h2>
+                <ul class="section-list">
+                    <li class="section-item">Department Manager (2020-present)<br><span>IL Test-Pushchino</span></li>
+                    <li class="section-item">Lead Specialist (2017-2020)<br><span>IL Test-Pushchino</span></li>
+                    <li class="section-item">First Category Specialist (2015-2017)<br><span>IL Test-Pushchino</span></li>
+                    <li class="section-item">Junior Researcher (2014-2015)<br><span>InSysBio</span></li>
+                </ul>
+            </section>
+            <section class="section" id="education">
+                <h2>Education</h2>
+                <ul class="section-list">
+                    <li class="section-item">Post-Graduate Study in Mathematical modeling, Numerical methods and Program Complexes <span>(2011-2014, Institute of Mathematical Problems of Biology RAS)</span></li>
+                    <li class="section-item">Specialists Degree in Physics <span>(2005-2010, Tula State University)</span></li>
+                </ul>
+            </section>
+            <section class="section" id="courses">
+                <h2>Courses</h2>
+                <ul class="section-list">
+                    <li class="section-item">JavaScript/Front-end. Stage 0 <span>(RS School)</span></li>
+                    <li class="section-item">Introduction to LaTeX <span>(Coursera, HSE University)</span></li>
+                    <li class="section-item">Machine Learning <span>(Coursera, Stanford University)</span></li>
+                    <li class="section-item">CS50's Web Programming with Python and JavaScript <span>(EdX, HarvardX)</span></li>
+                    <li class="section-item">CS50's Introduction to Computer Science <span>(EdX, HarvardX)</span></li>
+                    <li class="section-item">Introduction to Computational Thinking and Data Science <span>(MITx, HarvardX)</span></li>
+                    <li class="section-item">Introduction to Computer Science and Programming Using Python <span>(MITx, HarvardX)</span></li>
+                    <li class="section-item">Introduction to Linux <span>(LinuxFoundationX, HarvardX)</span></li>
+                </ul>
+            </section>
+            <section class="section" id="languages">
+                <h2>Languages</h2>
+                <ul class="section-list">
+                    <li class="section-item">English <span>(Pre-Intermediate)</span></li>
+                    <li class="section-item">Russian <span>(Native)</span></li>
+                </ul>
+            </section>
+        </div>
+    </main>
+    <footer class="footer">
+        <div class="container">
+            <div>
+                <a class="rsschool-link" href="https://rs.school/js/">
+                    <img src="images/rs_school_js.svg" alt="RS School">
+                </a>
+            </div>
+            <div>© 2022<a class="nav-link" href="https://github.com/antonsergeev">antonsergeev</a></div>
+        </div>
+    </footer>
 </body>
 </html>
